@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -12,12 +12,17 @@
   },
   "keywords": [
     "jest",
-    "rpg"
+    "rpg",
+    "OOP",
+    "TDD"
   ],
   "author": "ZQWhiting",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ZQWhiting/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/ZQWhiting/jest-another-RPG#readme"
+  "homepage": "https://github.com/ZQWhiting/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
 }
