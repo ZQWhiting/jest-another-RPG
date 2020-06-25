@@ -1,0 +1,23 @@
+{
+  "name": "git-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZQWhiting/jest-another-RPG.git"
+  },
+  "keywords": [
+    "jest",
+    "rpg"
+  ],
+  "author": "ZQWhiting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZQWhiting/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/ZQWhiting/jest-another-RPG#readme"
+}
